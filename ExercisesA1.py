@@ -40,21 +40,21 @@ for key, value in person_info.items():
       print (f"{key}: {value}")
 
 ## Exercise 4 
-print("What is the capital of France")
-answer = (input("Please enter your answer:" ))
+print("What is the capital of France")                 
+answer = (input("Please enter your answer:" ))              
 if answer.lower() >= ('Paris'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Czech Republic")
+print("What is the capital of Czech Republic")          
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Prague'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Bulgaria")
+print("What is the capital of Bulgaria")              
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Sofia'):
     print ('You are correct')
@@ -68,49 +68,49 @@ if answer.lower() >= ('Helsinki'):
 else:
     print("You are incorrect")
 
-print("What is the capital of Germany")
+print("What is the capital of Germany")                 
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Berlin'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Greece")
+print("What is the capital of Greece")                 
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Athens'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Ireland")
+print("What is the capital of Ireland")                 
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Dublin'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Italy")
+print("What is the capital of Italy")                   
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Rome'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Macedonia")
+print("What is the capital of Macedonia")               
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Skopje'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Norway")
+print("What is the capital of Norway")                  
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Oslo'):
     print ('You are correct')
 else:
     print("You are incorrect")
 
-print("What is the capital of Serbia")
+print("What is the capital of Serbia")                  
 answer = (input("Please enter your answer:" ))
 if answer.lower() >= ('Belgrade'):
     print ('You are correct')
