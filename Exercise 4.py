@@ -3,14 +3,14 @@ print("What is the capital of France")
 answer = (input("Please enter your answer:" ))              
 if answer.lower() >= 'Paris':
     print ('You are correct')
-else:
+else: 
     print("You are incorrect")
 
 print("What is the capital of Czech Republic")          
 answer2 = (input("Please enter your answer:" ))
 if answer2.lower() >= 'Prague':
     print ('You are correct')
-else:
+else: 
     print("You are incorrect")
 
 print("What is the capital of Bulgaria")              
