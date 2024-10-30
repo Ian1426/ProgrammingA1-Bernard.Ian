@@ -1,4 +1,4 @@
-## Exercise 3 
+## Exercise 3 - This exercise contains making a list 
 dictionary = {'Name' : 'Bernard Ian Santella', 'Age' : '18', 'Location' : 'Ilocos Norte, Philippines'}
 print(dictionary)
 
