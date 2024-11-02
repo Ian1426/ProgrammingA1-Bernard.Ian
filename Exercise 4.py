@@ -8,7 +8,7 @@ else:
 
 print("What is the capital of Czech Republic")          
 answer2 = (input("Please enter your answer:" ))
-if answer2.lower() == 'Prague':
+if answer2.lower() == 'prague':
     print('You are correct')
 else: 
     print("You are incorrect")
@@ -22,56 +22,56 @@ else:
 
 print("What is the capital of Finland")
 answer4 = (input("Please enter your answer:" ))
-if answer4.lower() == 'Helsinki':
+if answer4.lower() == 'helsinki':
     print('You are correct')
 else:
     print("You are incorrect")
 
 print("What is the capital of Germany")                 
 answer5 = (input("Please enter your answer:" ))
-if answer5.lower() == 'Berlin':
+if answer5.lower() == 'berlin':
     print('You are correct')
 else:
     print("You are incorrect")
 
 print("What is the capital of Greece")                 
 answer6 = (input("Please enter your answer:" ))
-if answer6.lower() == 'Athens':
+if answer6.lower() == 'athens':
     print('You are correct')
 else:
     print("You are incorrect")
 
 print("What is the capital of Ireland")                 
 answer7 = (input("Please enter your answer:" ))
-if answer7.lower() == 'Dublin':
+if answer7.lower() == 'dublin':
     print('You are correct')
 else:
     print("You are incorrect")
 
 print("What is the capital of Italy")                   
 answer8 = (input("Please enter your answer:" ))
-if answer8.lower() == 'Rome':
+if answer8.lower() == 'rome':
     print('You are correct')
 else:
     print("You are incorrect")
 
 print("What is the capital of Macedonia")               
 answer9 = (input("Please enter your answer:" ))
-if answer9.lower() >= 'Skopje':
+if answer9.lower() >= 'skopje':
     print('You are correct')
 else:
     print("You are incorrect")
 
 print("What is the capital of Norway")                  
 answer10 = (input("Please enter your answer:" ))
-if answer10.lower() == 'Oslo':
+if answer10.lower() == 'oslo':
     print('You are correct')
 else:
     print("You are incorrect")
 
 print("What is the capital of Serbia")                  
 answer11 = (input("Please enter your answer:" ))
-if answer11.lower() == 'Belgrade':
+if answer11.lower() == 'belgrade':
     print('You are correct')
 else:
     print("You are incorrect")
