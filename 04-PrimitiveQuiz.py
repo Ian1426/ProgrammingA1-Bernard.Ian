@@ -1,5 +1,7 @@
-## Exercise 4 - This exercise contains a quiz about the European Countries and their Capitals
-print("What is the capital of France")                 
+## Exercise 4
+#Using print function to ask the Capital of a country 
+print("What is the capital of France")
+#Using if else to check the answer of the user, ignoring capitalization    
 answer = (input("Please enter your answer:" ))              
 if answer.lower() == 'paris': 
     print('You are correct')
