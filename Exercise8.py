@@ -1,3 +1,4 @@
+## Exercise 8
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 search_term = input("Please enter the name you want to search for: ")
 if search_term in names: 

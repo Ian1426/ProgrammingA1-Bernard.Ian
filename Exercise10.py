@@ -1,3 +1,4 @@
+## Exercise 10
 number = int(input("Enter a number: "))
 
 if number % 2 == 0:

@@ -1,3 +1,4 @@
+## Exercise 6 
 correct_password = '12345'
 max_attempts = 5
 attempts = 0
