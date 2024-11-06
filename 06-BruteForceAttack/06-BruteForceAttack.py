@@ -20,4 +20,4 @@ while attempts < max_attempts:
             print(f"Incorrect password. You have {remaining_attempts} attempts remaining. Please Try again.")   #When incorrect password is entered, prints an error and the remaining attempt
         else:
         #If maximum limit is reached, it will notify that the authorities have been alerted
-            print("You have reached the maximum limit. Authorities have been alerted.")
+            print("Incorrect Password. You have reached the maximum limit. Authorities have been alerted.")
