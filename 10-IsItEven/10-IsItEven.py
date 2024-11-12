@@ -12,7 +12,7 @@ def check_even_odd(number):
 def main():
     try:
         #Asking the user to enter a number then converted to integer
-        num = int(input("Enter a number"))
+        num = int(input("Enter a number:"))
         #Checking the function check_even_odd with the user's answer then storing the result
         result = check_even_odd(num)
 #Printing the result 
